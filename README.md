@@ -1,27 +1,18 @@
 # QuoteGenerator
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.1.4.
+Quote Generator displays random and unique quotes that can cheer you up for the work and might give you a little inspiration for your work to get done.
 
-## Development server
+## Technology
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+  HTML,
+  CSS,
+  JavaScript.
 
-## Code scaffolding
+## Tips
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+  Focus on css part, mostly on media query ( min-width & max-width ) for better responsive WebApps. 
 
-## Build
+## Authors
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+- [@krishna sonune](https://www.github.com/krishnasonune)
 
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
